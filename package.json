@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "eLSausa",
+	"description": "My Back-end Development and APIs Course",
+	"keywords": ["freecodecamp", "back-end", "development"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
